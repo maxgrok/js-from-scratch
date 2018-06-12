@@ -1,0 +1,13 @@
+{
+  "name": "Max",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "index.js",
+  "repository": "https://github.com/maxgrok/js-from-scratch.git",
+  "author": "Max",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {}
+}
